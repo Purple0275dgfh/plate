@@ -1,0 +1,6 @@
+opencv-python-headless
+matplotlib
+numpy
+imutils
+easyocr
+streamlit
